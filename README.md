@@ -30,7 +30,7 @@
 
 - #### backend
 
-Configure your database connection details in an app.config file.
+Configure your database connection details in an appsettings.json file.
 Build and run the solution file from the "Backend" folder in Visual Studio.
 
 - #### frontend
