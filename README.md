@@ -47,7 +47,7 @@ Build and run the solution file from the "Backend" folder in Visual Studio.
 
 go to services then base url
 
-change to the local host ur backend is running at
+change to the local host your backend is running at
 
 Navigate to the "Frontend" directory
 
