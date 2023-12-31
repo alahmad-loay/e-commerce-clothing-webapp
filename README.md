@@ -6,7 +6,6 @@
 
 - [Technologies](#Technologies)
 - [How To Use](#How-to-use)
-- [License](#license)
 
 ---
 
@@ -47,15 +46,6 @@ Install required npm packages
 ```html
     npm start
 ```
-
----
-
-[Back To The Top](#read-me-template)
-
----
-
-## References
-[Back To The Top](#read-me-template)
 
 ---
 
