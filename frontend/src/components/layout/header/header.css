@@ -1,0 +1,21 @@
+.collapse {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+}
+
+#navbarScroll .me-auto {
+    margin-right: unset!important;
+}
+
+@media (max-width:991px) {
+    #navbarScroll .me-auto {
+        margin-right: auto!important;
+        width: 100%;
+    }
+
+    .navbar button {
+        border: none !important;
+    }
+
+}

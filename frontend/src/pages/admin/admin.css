@@ -1,0 +1,75 @@
+.products-categories {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .delete-product-category {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+  }
+
+  .order-btn {
+    margin: 5px 5px 0;
+  }
+
+  .add-products,
+  .add-categories,
+  .delete-category,
+  .delete-product {
+    margin-top: 50px;
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    position: relative;
+  }
+  
+  .add-products button,
+  .add-categories button,
+  .delete-category button,
+  .delete-product button {
+    width: 100%;
+  }
+  
+  .add-categories-div,
+  .add-products-div,
+  .delete-category-div,
+  .delete-product-div {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  
+  .insert-porduct-btn,
+  .insert-category-btn,
+  .delete-category-btn,
+  .delete-product-btn {
+    margin-top: 20px;
+  }
+  
+  @media (max-width: 991px) {
+    .products-categories {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .delete-product-category {
+        flex-direction: column;
+        align-items: center;
+      }
+  }
+  
+  @media (max-width: 576px) {
+    .add-products,
+    .add-categories,
+    .delete-category,
+    .delete-product {
+      width: 250px;
+    }
+  }
+  
