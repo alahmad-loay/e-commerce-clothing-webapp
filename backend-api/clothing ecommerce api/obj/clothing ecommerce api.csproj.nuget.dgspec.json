@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LoayA\\OneDrive\\Desktop\\clothing.api\\clothing ecommerce api\\clothing ecommerce api.csproj": {}
+    "C:\\Users\\LoayA\\OneDrive\\Desktop\\e-commerce web app\\backend-api\\clothing ecommerce api\\clothing ecommerce api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LoayA\\OneDrive\\Desktop\\clothing.api\\clothing ecommerce api\\clothing ecommerce api.csproj": {
+    "C:\\Users\\LoayA\\OneDrive\\Desktop\\e-commerce web app\\backend-api\\clothing ecommerce api\\clothing ecommerce api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LoayA\\OneDrive\\Desktop\\clothing.api\\clothing ecommerce api\\clothing ecommerce api.csproj",
+        "projectUniqueName": "C:\\Users\\LoayA\\OneDrive\\Desktop\\e-commerce web app\\backend-api\\clothing ecommerce api\\clothing ecommerce api.csproj",
         "projectName": "clothing ecommerce api",
-        "projectPath": "C:\\Users\\LoayA\\OneDrive\\Desktop\\clothing.api\\clothing ecommerce api\\clothing ecommerce api.csproj",
+        "projectPath": "C:\\Users\\LoayA\\OneDrive\\Desktop\\e-commerce web app\\backend-api\\clothing ecommerce api\\clothing ecommerce api.csproj",
         "packagesPath": "C:\\Users\\LoayA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LoayA\\OneDrive\\Desktop\\clothing.api\\clothing ecommerce api\\obj\\",
+        "outputPath": "C:\\Users\\LoayA\\OneDrive\\Desktop\\e-commerce web app\\backend-api\\clothing ecommerce api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LoayA\\AppData\\Roaming\\NuGet\\NuGet.Config",

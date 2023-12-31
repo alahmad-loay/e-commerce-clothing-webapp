@@ -77,3 +77,82 @@ C:\Users\LoayA\OneDrive\Desktop\clothing.api\clothing ecommerce api\bin\Debug\ne
 C:\Users\LoayA\OneDrive\Desktop\clothing.api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\LoayA\OneDrive\Desktop\clothing.api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\LoayA\OneDrive\Desktop\clothing.api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\appsettings.json
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\clothing ecommerce api.exe
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\clothing ecommerce api.deps.json
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\clothing ecommerce api.runtimeconfig.json
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\clothing ecommerce api.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\clothing ecommerce api.pdb
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\clothing ecommerce api.csproj.AssemblyReference.cache
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\clothing ecommerce api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\clothing ecommerce api.AssemblyInfoInputs.cache
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\clothing ecommerce api.AssemblyInfo.cs
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\clothing ecommerce api.csproj.CoreCompileInputs.cache
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\clothing ecommerce api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\clothing ecommerce api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\scopedcss\bundle\clothing ecommerce api.styles.css
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\clothing ecommerce api.csproj.CopyComplete
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\clothing ecommerce api.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\refint\clothing ecommerce api.dll
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\clothing ecommerce api.pdb
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\clothing ecommerce api.genruntimeconfig.cache
+C:\Users\LoayA\OneDrive\Desktop\e-commerce web app\backend-api\clothing ecommerce api\obj\Debug\net6.0\ref\clothing ecommerce api.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZiqRmmYlMTs62TghR4tFmcitE1I5y2ZwlRxBJeokSmerMgHS/aMQbLLLU1MGmYPlDdpiGr7PUr95fOlZ5Uiu5w==",
+  "dgSpecHash": "gfE2MFV1G1nLrWSf04OjvprHeGsxsocHQ5b0n+0hrO0Rzp1y/hynq55XG1kfrIRW09J82U587mTSLTD58bNzlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LoayA\\OneDrive\\Desktop\\clothing.api\\clothing ecommerce api\\clothing ecommerce api.csproj",
+  "projectFilePath": "C:\\Users\\LoayA\\OneDrive\\Desktop\\e-commerce web app\\backend-api\\clothing ecommerce api\\clothing ecommerce api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LoayA\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\LoayA\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
