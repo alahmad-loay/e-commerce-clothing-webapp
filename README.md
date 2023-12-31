@@ -2,14 +2,14 @@
 
 ---
 
-### Table of Contents
+## Table of Contents
 
 - [Technologies](#Technologies)
 - [How To Use](#How-to-use)
 
 ---
 
-### Technologies
+## Technologies
 
 - react.js typescript
 - C# .NET api
@@ -20,20 +20,24 @@
 
 ## How To Use
 
-#### Installation
+### Installation
 
-clone the repo:
+- #### clone the repo:
 
 ```html
     https://github.com/alahmad-loay/e-commerce-clothing-webapp.git
 ```
 
-#### backend
+- #### backend
 
 Configure your database connection details in an app.config file.
 Build and run the solution file from the "Backend" folder in Visual Studio.
 
-#### frontend
+- #### frontend
+
+go to services then base url
+
+change to the local host ur backend is running at
 
 Navigate to the "Frontend" directory
 
