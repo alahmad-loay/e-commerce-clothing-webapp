@@ -13,7 +13,7 @@
 
 - react.js typescript
 - C# .NET api
-- scss
+- css
 - mysql
 
 ---
