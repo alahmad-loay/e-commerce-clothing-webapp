@@ -22,7 +22,7 @@ https://github.com/alahmad-loay/e-commerce-clothing-webapp/assets/108299248/919c
 ## Technologies
 
 - react.js typescript
-- C# .NET api
+- C# .NET RESTapi
 - css
 - mysql
 
