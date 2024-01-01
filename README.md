@@ -15,7 +15,7 @@
 A full-stack web application with user authentication chance for customers to browse and buy products, and admins to maanage there products and orders recieved.
 
 here's an overview of this template:
-https://github.com/alahmad-loay/e-commerce-clothing-webapp/assets/108299248/919c2d53-d6b2-4c4c-854f-4691eb77720b
+[![Click to Play Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/alahmad-loay/e-commerce-clothing-webapp/assets/108299248/919c2d53-d6b2-4c4c-854f-4691eb77720b)
 
 ---
 
