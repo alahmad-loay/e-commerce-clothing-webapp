@@ -12,14 +12,14 @@
 
 ## About
 
-A full-stack web application with user authentication chance for customers to browse and buy products, and admins to maanage there products and orders recieved.
+A full-stack web application with user authentication, allowing customers to browse and buy products, and admins to maanage there products and orders recieved.
 
 ---
 
 ## Technologies
 
 - react.js typescript
-- C# .NET RESTapi
+- C# ASP.NET RESTapi
 - css
 - mysql
 
